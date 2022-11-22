@@ -1,6 +1,6 @@
 # Greetings, I'm Arocles 👋
 
-    💬 Founder of STC Group and co-founder of The Creative Duo.
+    💬 Founder of STC Group and The Creative Duo.
 I'm a semi-developer and server manager working in Aš, Czech republic.
 
     ⚙️ I use: Php, javascript, html, css, gradle.
