@@ -1,7 +1,8 @@
 # Greetings, I'm Arocles 👋
 
-    💬 Founder of The Creative Duo.
-I'm a semi-developer and server manager working in Aš, Czech republic.
+    💬 Founder of the Alteran Platforms.
+I'm a server owner and manager, ocasionally I develop useful things 😉.
+Currently working in Pilsen, Czech republic.
 
     ⚙️ I use: Php, javascript, html, css, gradle.
     ⚡ Fun fact: Everything started with Minecraft.
